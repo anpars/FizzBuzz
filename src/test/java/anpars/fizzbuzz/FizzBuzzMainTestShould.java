@@ -1,3 +1,5 @@
+package anpars.fizzbuzz;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 import junitparams.JUnitParamsRunner;
